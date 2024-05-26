@@ -1,0 +1,65 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 20px 0px 20px 0px;
+  gap: 10px;
+}
+.keyboard {
+  gap: 10px;
+}
+.keyboardFirst {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.keyboard-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  background-color: #d3dad6;
+  padding: 15px 10px 15px 10px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+.keyboardSecond {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.enter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 30px;
+  background-color: #d3dad6;
+  padding: 15px 10px 15px 10px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+.keyboardThird {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.backSpaceButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 30px;
+  background-color: #d3dad6;
+  padding: 15px 10px 15px 10px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.backSpaceButton img {
+  width: 30px;
+  height: 30px;
+}
